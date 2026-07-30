@@ -71,3 +71,13 @@ Testing/
 # Ocultar
 Notas/
 firmware/.pio/
+
+# CODESYS generated files
+codesys/*.opt
+codesys/*.bootinfo
+codesys/*.bootinfo_guids
+codesys/*.compileinfo
+codesys/*.precompilecache
+codesys/*.~u
+codesys/*.simulation.*
+codesys/*.xml
